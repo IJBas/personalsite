@@ -1,0 +1,132 @@
+/*top section*/
+.top-container {
+  text-align: center;
+  padding-top: 80px;
+  background-color: #002B5B;
+}
+h1{
+  font-family: 'Fredoka One', cursive;
+  font-size: 5rem;
+  color: #F57328;
+  padding-top: 50px;
+}
+h2{
+  font-family: 'Caudex', serif;
+  font-size: 3rem;
+  color: #FEC260;
+}
+h3{
+  font-family: 'Fredoka One', cursive;
+  font-size: 2rem;
+  color: #FEC260;
+}
+.pro{
+  text-decoration: underline;
+}
+.cloud-left{
+  position: absolute;
+  left: 10px;
+}
+.cloud-right{
+  position: absolute;
+  right: 10px;
+}
+/*middle section*/
+.middle-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color:#2F86A6;
+  text-align: center;
+}
+.profile{
+  width: 30%;
+  margin: auto;
+}
+p{
+  font-size: 20px;
+    font-family: 'Caudex', serif;
+}
+a{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+hr{
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 10%;
+  margin :50px auto ;
+  color:#FEE440;
+}
+.skill-row{
+  margin: 120px auto;
+  text-align: left;
+  width: 50%;
+}
+.sing-img{
+  width: 30%;
+  float:left;
+  margin-right: 30px;
+}
+.dance{
+  float: right;
+  width: 20%;
+  margin-left: 30px;
+}
+}
+body{FEC260
+  margin: 0;
+}
+/*bottom section*/
+.bottom-container {
+  background-color:#D8D8D8;
+  text-align: center;
+  padding: 70px;
+}
+.contact-message{
+  margin: auto auto 50px auto;
+  width: 25%;
+
+}
+.btn {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Fredoka One', cursive;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 30px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+.btn:hover {
+   background: #F1BA15;
+   border: solid #000000 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.footer-link{
+  color: #334443;
+  margin: 0 30 px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #1CC5DC;
+}
+.credit{
+margin-top: 30px;
+}
